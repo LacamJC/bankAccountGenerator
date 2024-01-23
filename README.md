@@ -2,6 +2,9 @@
 
 Da lista de projetos que fiz enquanto estudava POO fiz esse algoritmo que gera 5 contas de bancos com dados aleatorios.
 
+## Informações Adicionais
+- O algoritmo conta com um sistema gerador aleatório de IDs para cada conta.
+- Existem dois tipos de conta iniciais: 'CC' (Conta Corrente) e 'CP' (Conta Poupança), cada um começando com um valor fixo predefinido.
 
 ##  Para rodar este projeto 
 #### Lembre-se de verificar se possui o Node instalado caso não tenha execute o seguinte comando ( para distribuições Debian )
