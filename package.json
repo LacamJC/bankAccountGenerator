@@ -1,0 +1,14 @@
+{
+  "name": "bankaccountgenerator",
+  "version": "1.0.0",
+  "description": "O **Bank Account Generator** é um algoritmo simples que gera 5 contas bancárias com dados aleatórios, como ID da conta, proprietário e saldo inicial. Ele permite criar contas de dois tipos: **Conta Corrente (CC)** e **Conta Poupança (CP)**.",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "LacamJC",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}
