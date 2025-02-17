@@ -9,6 +9,7 @@ O **Bank Account Generator** é um algoritmo simples que gera 5 contas bancária
 - Criação de contas com dois tipos: 'CC' (Conta Corrente) e 'CP' (Conta Poupança).
 - Cada conta começa com um saldo predefinido: 50 para CC e 150 para CP.
 - Impressão das informações de cada conta no terminal, incluindo o ID, proprietário, saldo, status e tipo de conta.
+- Testes com **Jest** para verificar integridade do codigo
 
 ## Como Usar
 
